@@ -1,0 +1,26 @@
+console.log("do or die, many livies are dependent on you");
+console.log("*************************************************");
+let userName = "HariH"; // String
+let organization = "unemployeed"; // String
+let contactNumber = 98685556; // Number
+let knowsAutomation = true; // Boolean
+let usesPlaywright; // Undefined (not assigned)
+let bell = null;
+
+console.log(userName);
+console.log(typeof userName);
+
+console.log(organization);
+console.log(typeof organization);
+
+console.log(contactNumber);
+console.log(typeof contactNumber);
+
+console.log(knowsAutomation);
+console.log(typeof knowsAutomation);
+
+console.log(usesPlaywright);
+console.log(typeof usesPlaywright);
+
+console.log(bell);
+console.log(typeof bell);
