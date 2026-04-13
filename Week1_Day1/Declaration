@@ -1,0 +1,5 @@
+var username = "Hello";
+var username = "Hari";
+var username = null;
+console.log(username);
+console.log("*********************");

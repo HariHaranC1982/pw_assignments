@@ -1,0 +1,12 @@
+let mobile = 121212;
+console.log(mobile);
+let Uname = "Hari Haran";
+console.log(Uname);
+let bankBalance = 2425626892.44;
+console.log(bankBalance);
+let cigrate = false;
+console.log(cigrate);
+let landline = null;
+console.log(landline);
+let ppf;
+console.log(ppf)
