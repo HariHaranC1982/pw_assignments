@@ -1,0 +1,13 @@
+
+
+for(var i=0;i<=10;i++)
+{
+    if (i%2==0)
+    {
+
+    console.log("I is  a even number " + i);
+    } else
+    {
+        console.log("Old number  is " + i );
+    }
+}
